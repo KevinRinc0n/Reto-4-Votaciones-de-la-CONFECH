@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\bin\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.exe
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\bin\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.deps.json
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\bin\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.runtimeconfig.json
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\bin\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.dll
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\bin\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.pdb
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\obj\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\obj\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\obj\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\obj\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\obj\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.dll
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\obj\Debug\net7.0\refint\Reto-4-Votaciones-de-la-CONFECH.dll
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\obj\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.pdb
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\obj\Debug\net7.0\Reto-4-Votaciones-de-la-CONFECH.genruntimeconfig.cache
+C:\Users\kevin\Desktop\Reto-4-Votaciones-de-la-CONFECH\obj\Debug\net7.0\ref\Reto-4-Votaciones-de-la-CONFECH.dll
